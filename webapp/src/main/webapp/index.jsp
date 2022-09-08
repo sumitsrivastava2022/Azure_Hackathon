@@ -1,3 +1,3 @@
-<h1> AZURE_HACKATHON 2022</h1>
-<h2> Learn Azure and devops with CI/CD pipelines including agile methodology and monitoring</h2>
-<h2> All the best to all the participants in the Azure Hackathon</h2>
+<h1> RahulShettyAcademy.com Learning</h1>
+<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
+<h2> Good Luck and we are almost done with the course.Thankyou</h2>
